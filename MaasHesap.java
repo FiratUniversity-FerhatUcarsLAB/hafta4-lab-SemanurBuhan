@@ -92,7 +92,6 @@ public class MaasHesap {
         System.out.printf("Toplam Kesinti: %.2f TL\n", toplamKesinti);
         System.out.printf("Net Maaş: %.2f TL\n", netmaas);
         System.out.println("----------------------------");
-
        
       input.close(); 
   }
